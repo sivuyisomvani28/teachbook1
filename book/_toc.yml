@@ -24,7 +24,7 @@ parts:
       - file: syntax_exercises/010.md
       - file: syntax_exercises/011.md
       - file: syntax_exercises/012.md
-    - file: teachbook1/book/content/IntrodtoFunctions.md
+    - file: content/IntrotoFunctions.md
       sections:
       - file: content/LinearFunction.md
       - file: content/QuadraticFunction.md
