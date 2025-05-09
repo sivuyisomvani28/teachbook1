@@ -25,6 +25,7 @@ parts:
       - file: syntax_exercises/011.md
       - file: syntax_exercises/012.md
     - file: teachbook1/book/content/IntrodtoFunctions.md
+      sections:
       - file: teachbook1/book/content/LinearFunction.md
       - file: teachbook1/book/content/QuadraticFunction.md
       - file: teachbook1/book/content/HyperbolaFunction.md
