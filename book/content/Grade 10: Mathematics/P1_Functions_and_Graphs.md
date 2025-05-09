@@ -1,3 +1,4 @@
+# Functions and Graphs
 P1: Algebra, Equations & Inequalities
 P1_Patterns_and_Sequences
 P1_Finance_and_Growth
