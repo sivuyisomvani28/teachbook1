@@ -1,3 +1,5 @@
+# Algebra, Equations and Inequalities
+
 P1: Algebra, Equations & Inequalities
 P1: Patterns and Sequences
 P1: Finance and Growth
