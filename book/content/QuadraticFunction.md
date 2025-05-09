@@ -1,1 +1,1 @@
-
+# The Quadratic Function
