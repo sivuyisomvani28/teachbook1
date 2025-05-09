@@ -9,6 +9,4 @@ parts:
       - file: content/LinearFunction.md
       - file: content/QuadraticFunction.md
       - file: content/HyperbolaFunction.md
-    - file: references.md
-    - file: changelog.md
-    - file: credits.md
+
