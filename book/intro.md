@@ -1,5 +1,5 @@
 (intro)=
-# Hi! Welcome to HeadStart Tutorials
+# Hi! Welcome to _HeadStart_ Tutorials
 
 _This is the first page the student will see when opening the url._
 
