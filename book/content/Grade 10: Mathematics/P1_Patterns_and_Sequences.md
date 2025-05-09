@@ -1,3 +1,4 @@
+# Patterns and Sequence
 P1: Algebra, Equations & Inequalities
 P1_Patterns_and_Sequences
 P1: Finance and Growth
